@@ -8,3 +8,15 @@ What is HTTP Server?
 1) In the end it is basically Client throwing some information at server
 2) Server doing something with that information
 3) Server responding back with the final result
+
+Things Clients need to worry about or specify:
+1) Protocols (HTTP/HTTPS)
+2) Address (URL/PORT/IP)
+3) Route
+4) Headers, Query, Parameters
+5) Method
+
+Things Server needs to worry about:
+1) Response Header
+2) Response Body
+3) Status Code
