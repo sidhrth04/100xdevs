@@ -20,3 +20,10 @@ Things Server needs to worry about:
 1) Response Header
 2) Response Body
 3) Status Code
+
+Clients Side Looks like this:
+![image](https://github.com/sidhrth04/100xdevs/assets/92026202/4cbc1548-48a0-40f7-a3cd-c54ab5781200)
+
+Server Side Looks like this:
+![image](https://github.com/sidhrth04/100xdevs/assets/92026202/2c91b1b2-ec79-4394-ba9e-6d660f06babf)
+
