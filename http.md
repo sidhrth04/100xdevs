@@ -13,7 +13,7 @@ Things Clients need to worry about or specify:
 1) Protocols (HTTP/HTTPS)
 2) Address (URL/PORT/IP)
 3) Route
-4) Headers, Query, Parameters
+4) Headers, Query, Parameters 
 5) Method
 
 Things Server needs to worry about:
