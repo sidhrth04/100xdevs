@@ -27,3 +27,8 @@ Clients Side Looks like this:
 Server Side Looks like this:
 ![image](https://github.com/sidhrth04/100xdevs/assets/92026202/2c91b1b2-ec79-4394-ba9e-6d660f06babf)
 
+Request Methods:
+1) GET
+2) POST
+3) PUT
+4) DELETE
