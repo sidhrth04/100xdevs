@@ -27,7 +27,7 @@ await User.create({name, email: username, password});
 
 // const user = new User({
 //     name: name,
-//     email: username,
+//     email: username, 
 //     password: password
 // });
 user.save();
