@@ -11,7 +11,7 @@ const user = mongoose.model('Users', {name : String, email : String, password : 
 
 app.post("/signup", async function(req, res){
     const username = req.body.username;
-    const password = req.body.password;
+    const password = req.body.password; 
     const name = req.body.name;
 
 
