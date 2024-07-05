@@ -8,9 +8,9 @@ mongoose.connect("mongodb+srv://sidhrth04:Sidd%4023022004@mydb.xaaoqlo.mongodb.n
 
 
 const user = mongoose.model('Users', {name : String, email : String, password : String});
-
+//signup api to get username and password
 app.post("/signup", async function(req, res){
-    const username = req.body.username;
+    const username = req.body.username; 
     const password = req.body.password; 
     const name = req.body.name;
 
