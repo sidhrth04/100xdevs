@@ -17,6 +17,6 @@ app.post("/health-checkup", function(req, res){
 app.use(function(err, req, res, next){
     res.json({
         msg : "Sorry something is wrong"
-    })
+    }) 
 });
 app.listen(3000);
